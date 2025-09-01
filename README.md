@@ -7,5 +7,5 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 * John Adams
 + Thomas Jefferson
 
-1.Maryam
-2.Minaal
+1. Maryam
+2. Minaal
