@@ -2,3 +2,6 @@
 **This is an example repo**
 ~~This text will be struck through.~~
 This site was built using [GitHub Pages](https://pages.github.com/).
+-Hello
+-I like cattos
+-meow
