@@ -12,4 +12,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 1. Lab
    - Lab 1
-     - Lab 2
+     - Lab 
+
+100. First list item
+     - First nested list item
