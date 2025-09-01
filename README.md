@@ -8,4 +8,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 + Thomas Jefferson
 
 1. Maryam
-2. Minaal
+2. Manaal
+
+1. Lab
+   - Lab 1
+     - Lab 2
